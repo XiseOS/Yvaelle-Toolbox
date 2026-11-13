@@ -1,0 +1,34 @@
+{
+  "id": "filament-flight",
+  "title": "Yvaelle's Toolbox",
+  "description": "Filament wings, cooperative scanning instruments, selectable token-only scan styles, player-drawn regions, portable lights, hardlight medicine and a Keepsake character sheet for Ellie.",
+  "version": "12.0.1",
+  "url": "https://github.com/XiseOS/Yvaelle-Toolbox",
+  "manifest": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/release/module.json",
+  "download": "https://github.com/XiseOS/Yvaelle-Toolbox/releases/download/v12.0.1/filament-flight-12.0.1.zip",
+  "socket": true,
+  "compatibility": {
+    "minimum": "14",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "scripts/build-12.0.1/flight.mjs"
+  ],
+  "styles": [
+    "styles/fonts.css",
+    "styles/medkit-cards.css",
+    "styles/hud.css",
+    "styles/previews.css",
+    "styles/keepsake.css",
+    "styles/keepsake-theme.css",
+    "styles/keepsake-sheet.css",
+    "styles/keepsake-extras.css",
+    "styles/field-menus.css"
+  ],
+  "authors": [
+    {
+      "name": "Custom module created with Codex"
+    }
+  ],
+  "readme": "README.md"
+}
