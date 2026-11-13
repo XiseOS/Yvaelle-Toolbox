@@ -5,7 +5,7 @@
   "version": "12.0.1",
   "url": "https://github.com/XiseOS/Yvaelle-Toolbox",
   "manifest": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/beta/module.json",
-  "download": "https://github.com/XiseOS/Yvaelle-Toolbox/releases/download/v12.0.1/filament-flight-12.0.1-beta-channel.zip",
+  "download": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/files/v12.0.1/filament-flight-12.0.1-beta-channel.zip",
   "socket": true,
   "compatibility": {
     "minimum": "14",
