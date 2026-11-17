@@ -2,17 +2,17 @@
   "id": "filament-flight",
   "title": "Yvaelle's Toolbox",
   "description": "Filament wings, cooperative scanning instruments, selectable token-only scan styles, player-drawn regions, portable lights, hardlight medicine, a Keepsake character sheet for Ellie, and The Heart Turned: a curse the GM lays on her from a wheel.",
-  "version": "13.0.0-beta.8",
+  "version": "13.0.0-beta.9",
   "url": "https://github.com/XiseOS/Yvaelle-Toolbox",
   "manifest": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/beta/module.json",
-  "download": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/files/v13.0.0-beta.8/filament-flight-13.0.0-beta.8.zip",
+  "download": "https://raw.githubusercontent.com/XiseOS/Yvaelle-Toolbox/files/v13.0.0-beta.9/filament-flight-13.0.0-beta.9.zip",
   "socket": true,
   "compatibility": {
     "minimum": "14",
     "maximum": "14"
   },
   "esmodules": [
-    "scripts/build-13.0.0-beta.8/flight.mjs"
+    "scripts/build-13.0.0-beta.9/flight.mjs"
   ],
   "styles": [
     "styles/fonts.css",
